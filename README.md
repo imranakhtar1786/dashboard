@@ -102,8 +102,8 @@ AI was used for development assistance including debugging, responsive styling, 
 
 ## Links
 
-**GitHub:** `<YOUR_GITHUB_URL>`
+**GitHub:** `https://github.com/imranakhtar1786/dashboard`
 
-**Live Demo:** `<YOUR_VERCEL_URL>`
+**Live Demo:** `https://dashboard-swart-seven-33.vercel.app/`
 
-**Time Spent:** `<X hours>`
+**Time Spent:** `1.5 to 2 hours`
